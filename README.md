@@ -29,5 +29,5 @@ This project detects whether a given news article is Fake or Real using Machine 
 - Naive Bayes: 94%
 
 ## 🙋‍♂️ Developed by
-[Your Name]  
-Final Year – B.Tech AI & Data Science
+Muhammad Awuf A.J
+Final Year – B.Tech AI & Data Science (Completed)
